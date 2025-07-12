@@ -1,0 +1,32 @@
+{
+    "name":"Rajadurai",
+    "age": 30,
+    "city": "Chennai",
+    "skills": [
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "MongoDB"
+    ],
+    "experience": {
+        "years": 5,
+        "projects": [
+            {
+                "name": "E-commerce Website",
+                "role": "Full Stack Developer",
+                "technologies": ["React", "Node.js", "MongoDB"]
+            },
+            {
+                "name": "Real-time Chat Application",
+                "role": "Backend Developer",
+                "technologies": ["Node.js", "Socket.io"]
+            }
+        ]
+    },
+    "education": {
+        "degree": "Bachelor of Technology",
+        "field": "Computer Science",
+        "university": "XYZ University",
+        "year": 2018
+    }
+}
